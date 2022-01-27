@@ -20,12 +20,12 @@ The new MAGA protocol will consist of the following products:
 
 Feel free to explore each one and find out more on our project and how all of its features work together to deliver a complete and innovative DeFi platform. 
 
-```markdown
-Syntax highlighted code block
 
 # Team
 
 The team behind Thorus chose to remain anonymous to the public. However core members of the team did go through "Know Your Customer" (KYC) procedures with audit companies.
+
+
 
 ## Staff
   - 3 full time Developers
