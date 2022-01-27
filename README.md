@@ -1,2 +1,2 @@
-# token
-MAGA TOKEN LAUNCH 
+# MAGA
+TOKEN LAUNCH 
